@@ -10,6 +10,7 @@ body{
     align-items: center;
 }
 
+/*Nav_bar*/
 .header_left img{
     object-fit: contain;
     height: 40px;
@@ -77,3 +78,5 @@ body{
     height: 20px;
     width: 20px;
 }
+
+/*Main Body*/
