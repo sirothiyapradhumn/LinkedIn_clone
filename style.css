@@ -200,6 +200,7 @@ body{
 .feed{
     flex: 0.6;
     margin: 0 20px;
+    width: 45rem;
 }
 
 .feed_inputContainer{
